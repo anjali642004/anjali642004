@@ -1,4 +1,4 @@
-## Hi there 👋
+
 - <h1 align="center">Hi 👋, I'm Anjali Garrepalli</h1>
 <h3 align="center">A passionate AI & ML enthusiast and a Frontend Web Developer from India</h3>
 
