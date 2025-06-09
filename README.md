@@ -1,6 +1,6 @@
 
 - <h1 align="center">Hi 👋, I'm Anjali Garrepalli</h1>
-<h3 align="center">A passionate AI & ML enthusiast and a Frontend Web Developer from India</h3>
+<h3 align="center">A passionate AI & ML enthusiast and a Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali642004&label=Profile%20views&color=0e75b6&style=flat" alt="anjali642004" /> </p>
 
